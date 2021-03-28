@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857134944421",
+    "project_id": "bc-igti-android-firebase",
+    "storage_bucket": "bc-igti-android-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857134944421:android:ec8fe5be625b6715967d4c",
+        "android_client_info": {
+          "package_name": "com.android.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857134944421-ekd89fbnj7k5m4gjg0lje45aknsvk5ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANjBVtb-q1GsRxczIuNTHG5kwGURI1llk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857134944421-ekd89fbnj7k5m4gjg0lje45aknsvk5ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
